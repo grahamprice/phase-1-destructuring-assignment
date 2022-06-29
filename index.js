@@ -1,4 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken';
+const animalSounds = ['moo', 'neigh','bah','oink', 'bock']
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
